@@ -1,0 +1,171 @@
+label,text
+account_blocked,can you help me unblock my account
+account_blocked,"can you check what the problem with my account is, it seems to b e blocked"
+account_blocked,is there a reason you put a hold on my chase account
+account_blocked,why can't i access my chase account
+account_blocked,how come my chase account has a hold on it
+application_status,has my mastercard application gone through the process
+application_status,has my mastercard application gone through yet
+application_status,has my application for my visa card gone through
+application_status,has my mastercard application been processed
+application_status,when will i know if my visa card application was approved
+apr,is my apr rate good
+apr,"i need to know what the current apr is for my chase sapphire, please"
+apr,can you find me the apr listed on the statement for my citi mastercard
+apr,what's the apr on my capital one venture card
+apr,inform me on what my credit card's apr is
+balance,tell me the current account balance
+balance,check my checking balance
+balance,how much do i have left in my checking account
+balance,what's my checking look like
+balance,how much do i have in my savings account
+bill_balance,tell me my water bill please
+bill_balance,is the phone bill the same as last month
+bill_balance,whens my insurance due and how much does it cost
+bill_balance,how much is the car bill this month
+bill_balance,what is the electricity bill
+bill_due,what day of the month do i have to pay my mortgage
+bill_due,when is my electricity due date
+bill_due,i need to know the next billing date of my american express card
+bill_due,when does my gas bill need paid by
+bill_due,when is next month's cable bill due
+card_declined,why can't i use my credit card
+card_declined,why won't you let me pay with my credit card
+card_declined,why did i get rejected on my card
+card_declined,how come my credit card isn't working
+card_declined,why didn't my card work
+credit_limit,tell me my hsbc card credit limit
+credit_limit,what's the spending limit on my lloyds card
+credit_limit,i need you to tell me the credit limit for my republic bank card
+credit_limit,how high is my credit limit
+credit_limit,i want to know my credit limit
+credit_limit_change,who do i need to contact to ask for a credit limit increase on my discover card
+credit_limit_change,can you increase my credit limit to $1000
+credit_limit_change,can my credit limit be increased to $1000
+credit_limit_change,how do i adjust my credit limit
+credit_limit_change,how can i increase the credit limit on my discover card
+credit_score,please tell me what my credit score is
+credit_score,i'd like you to check on my credit score
+credit_score,let me know what my credit score is today
+credit_score,can you check my credit score
+credit_score,can you check my credit score for me
+damaged_card,i accidentally deactivated the magnetic stripe on my visa debit card and i need to report it
+damaged_card,can i talk to someone to let them know my card was damaged from being melted on a radiator
+damaged_card,i would like to report a damaged card that was burnt
+damaged_card,i would like to report my card damaged since i accidentally spilled gorilla glue all over it and the numbers are now obscured
+damaged_card,my visa has been damaged
+direct_deposit,i'm not sure how to set up direct deposit
+direct_deposit,can you tell me how to set up direct deposit
+direct_deposit,"i'd like my checks to be deposited into my account directly, how do i do that"
+direct_deposit,i'd like to set up direct deposit
+direct_deposit,how do i set up my direct deposit
+exchange_rate,is $30 usd more or less in canada
+exchange_rate,"in canadian dollars, what is $30"
+exchange_rate,what is the conversion of $30 in canadian dollars
+exchange_rate,can you please convert $30 usd to canadian dollars
+exchange_rate,how much is $30 usd in canadian dollar
+expiration_date,can you tell me what the date of expiry for my visa card is
+expiration_date,tell me the expiration date for my visa card
+expiration_date,show me the expiration date for my visa card
+expiration_date,where should i look for my credit card expiration day
+expiration_date,when will my credit card no longer be good
+freeze_account,i am hoping you can put a stop on my bank account
+freeze_account,please put a freeze on my banking account
+freeze_account,i need my bank account frozen
+freeze_account,how do i freeze my bank account
+freeze_account,would you freeze my bank account
+improve_credit_score,i have a revolving store card and defaulted so will my fico score be affected
+improve_credit_score,will my fico score decrease if i increase my student loan debt
+improve_credit_score,if i lose my job will my credit score go down
+improve_credit_score,can i hurt my credit rating if i open several credit cards in a short time frame
+improve_credit_score,will only having five late payments really make my credit bad
+insurance,what are the benefits of having this insurance
+insurance,what are my benefits with this insurance
+insurance,what are my benefits on the insurance
+insurance,google find out what health plan i am under
+insurance,tell me what health plan coverage i have
+insurance_change,what if i want to switch insurance plans
+insurance_change,is there a way to get a new insurance plan
+insurance_change,i want to switch to a new insurance plan
+insurance_change,how do i switch insurance plans
+insurance_change,phone number to state farm to change insurance
+interest_rate,what amount of interest does my checking account earn
+interest_rate,what does my checking account at chase earn in interest
+interest_rate,what amount of interest does my checking account at chase earn
+interest_rate,what interest rate does my checking account come with
+interest_rate,what does chase pay in interest per year
+international_fees,is there a charge to use my card in croatia
+international_fees,"in x, will i be charged to use my card"
+international_fees,"in x, what is the charge if i use my card"
+international_fees,"if i use my card in x, will there be a charge"
+international_fees,will it cost me anything to use my card in turin
+min_payment,do you know the smallest amount i can pay on my water bill
+min_payment,look up the lowest amount i can pay on my electricity bill
+min_payment,what is the minimum payable amount for my rent bill this month
+min_payment,what is the minimum payment on my water bill
+min_payment,"if i wanted to spend the lowest for my electric bill, then how much would it be"
+new_card,how do i apply for a visa card
+new_card,i wish to apply for a visa card
+new_card,help me apply for a visa card
+new_card,is there a list of good credit cards i can choose from to apply for
+new_card,how can i find a new credit card to apply to
+order_checks,may i order more checks for my well's fargo account
+order_checks,do you know how i order more checks for my well's fargo account
+order_checks,what do i do to order new checkbooks for my well's fargo account
+order_checks,how do i order more checkbooks for my well's fargo account
+order_checks,where do i go to order more checks for my well's fargo account
+pay_bill,today is the day i should pay my electric bill
+pay_bill,my electric bill should be paid today
+pay_bill,i need to pay my visa
+pay_bill,pay $175 on my visa
+pay_bill,i'd like to pay $4735 to my water bill
+pin_change,change the code of my savings account to be 1234
+pin_change,alter the pin on my savings account to be 1234
+pin_change,what exactly is my pin
+pin_change,how do i change the account pin number for me
+pin_change,please tell me how do i change the account pin number
+redeem_rewards,whats the policy to redeem my visa reward points
+redeem_rewards,what can i get with my mastercard points
+redeem_rewards,how do i cash in my amex reward points
+redeem_rewards,how do i redeem my visa points
+redeem_rewards,i want to shop using credit card points
+replacement_card_duration,what is the shipping wait for my card
+replacement_card_duration,when will the replaecment card arrive
+replacement_card_duration,let me know the wait on a replacement credit card
+replacement_card_duration,let me know when the replacement card will arrive
+replacement_card_duration,how soon can i expect a replacement card for my lost card to arrive
+report_fraud,there's a messed up transaction on my account from mcdonald's
+report_fraud,i saw a fraudulent transaction
+report_fraud,i have a false charge on my account from mcdonald's
+report_fraud,who do i contact to report fraud on my visa
+report_fraud,there has been unauthorized use of my visa
+report_lost_card,how do i report my very lost card
+report_lost_card,how do i report the card as lost
+report_lost_card,"lost report card, need new one"
+report_lost_card,my report card was stolen
+report_lost_card,my report card was lost help!
+rewards_balance,how many points do i have on my visa
+rewards_balance,tell me the number of points on my visa card
+rewards_balance,give me the point total on my visa card
+rewards_balance,what points have i earned on my visa
+rewards_balance,how many rewards points do i have on my rewards points i have on my mastercard
+rollover_401k,do you know the process to rollover my 401k
+rollover_401k,tell me how to rollover my 401k
+rollover_401k,my 401k needs to rollover and i need your help
+rollover_401k,let me know how to rollover my 401k
+rollover_401k,what do i have to do to transfer my 401k
+taxes,do you know the price for my taxes in income
+taxes,what is the amount of my state taxes
+taxes,what is the price of my state taxes that i owe
+taxes,do you know the total for taxes for my income
+taxes,what should i squirrel away to pay in taxes
+transactions,show me all gas purchases within the last month
+transactions,can you list all recent transactions
+transactions,bring up my most recent purchases
+transactions,i need to see all visa purchases for march
+transactions,"looking at january, show all wine purchases"
+transfer,transfer fifty dollars between my chase and bank of america account
+transfer,deposit ten bucks from my chase account to my ally account
+transfer,put a hundred dollars in my ally account from bluebird
+transfer,i want seventy bucks transferred from b of a to chase
+transfer,can i initiate a one-time transfer from my savings account to my money market account
